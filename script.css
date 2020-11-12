@@ -1,0 +1,39 @@
+.wrapper {
+    margin-bottom: 15px;
+    font-size: 80px;
+    text-align: center;
+    color: black;
+    background-color: red;
+}
+
+.card {
+    margin-bottom: 15px;
+    font-size: 60px;
+    text-align: center;
+    color: black;
+    background-color: red;
+}
+
+
+#password {
+    display: block;
+    margin: 0;
+    border: dashed 3px #7777777e;
+    border-radius: 5px;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    padding-top: 2%;
+    
+button {
+    padding: 2% 8%;
+    background: rgb(245, 42, 42);
+    border: none;
+    border-radius: 20px;
+    color: white;
+    display: block;
+    margin: auto;
+    width: 70%;
+    height: 130%;
+}
+
